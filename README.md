@@ -8,7 +8,7 @@
 
 Icon | Character | Text
 --- | --- | ---
-![Knight](https://wiki.bloodontheclocktower.com/images/8/8e/Icon_knight.png) | **Knight** | You start knowing 1 good player.
+![Knight](https://wiki.bloodontheclocktower.com/images/8/8e/Icon_knight.png) | **Knight** | You start knowing 2 players that are not the Demon.
 ![Pixie](https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png) | **Pixie** | You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.
 ![Empath](https://wiki.bloodontheclocktower.com/images/1/13/Icon_empath.png) | **Empath** | Each night, you learn how many of your 2 alive neighbors are evil.
 ![Sailor](https://wiki.bloodontheclocktower.com/images/1/16/Icon_sailor.png) | **Sailor** | Each night, choose an alive player: either you or they are drunk until dusk. You can't die.
